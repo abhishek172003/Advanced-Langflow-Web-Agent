@@ -1,0 +1,1 @@
+This is a multi-step, deep research agent that will pull live data from sources like Google, Bing, and Reddit. I'm going to be covering advanced Python concepts, complex architecture, and best practices for building agents that go far beyond just a single prompt response.
